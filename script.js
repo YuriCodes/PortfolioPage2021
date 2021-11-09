@@ -49,8 +49,6 @@ function consoleText(words, id, colors){
 
 }
 
-
-
 //Go to top button:
 mybutton = document.getElementById("buttonToTop");
 
