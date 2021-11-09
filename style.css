@@ -24,7 +24,6 @@ i{
 a.list-group-item{
     background-color: transparent;
     border: none;
-    filter: invert(20%);
     
 }
 header{  
