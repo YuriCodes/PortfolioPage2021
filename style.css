@@ -208,7 +208,7 @@ a.repo, a.repo:active, a.repo:visited, a.repo:hover{
   @media screen and (max-width: 540px) {
     #text{
         font-size: 28px;
-        margin-left: 30px;
+        margin-left: 15px;
     }
     #About{
         margin-top: 570px;
