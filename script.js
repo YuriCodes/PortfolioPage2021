@@ -1,5 +1,5 @@
 //Text animation
-consoleText(["Hello There.", "I'm Yuri.", "Front-End Developer."], 'text', ['#004d4d']);
+consoleText(["Hello There.", "I'm Yuri.", "Full-Stack Developer."], 'text', ['#004d4d']);
 
 function consoleText(words, id, colors){
     if(colors === undefined) 
